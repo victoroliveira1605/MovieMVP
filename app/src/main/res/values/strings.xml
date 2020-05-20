@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieMVP</string>
+    <string name="btn_request_api">Buscar</string>
+    <string name="upcoming_title_menu">Em Breve</string>
+    <string name="launch_title_menu">Lançamento</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
